@@ -1,6 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
+Stuff about my life. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[]]
